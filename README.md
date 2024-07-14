@@ -8,8 +8,8 @@ Meu professor de matemática no ensino médio quis fazer um trabalho diferente p
 
 <img src="https://s2.static.brasilescola.uol.com.br/be/2023/06/formacao-tronco-piramide.png" width="35%">
 
-**Projeto inteiramente feito em Python**
+🐍 **Projeto inteiramente feito em Python** 🐍
 
 [![Skills](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
 
-**O código está neste repositório acima**
+🖱 **O código está neste repositório acima** 🖱
